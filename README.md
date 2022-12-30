@@ -18,3 +18,6 @@ The main aim of this project is to classify disaster text messages into differen
 ### Folder: models: Model Source
 * my_classifier.zip: compressed zipped pickle file that contains the model
 * train_classifier.py: ML pipeline modulated with functional code for loading, cleaning, training model and saving model object in pickle file
+
+## Workflow Instructions
+
