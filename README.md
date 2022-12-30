@@ -36,7 +36,7 @@ Run the following commands in the project's workspace directory to initialize th
 
 ![This is an image](Workflow%20Snapshots/ML.png)
 
-3. > Change directory to **app** (**command: cd models**) and run ML pipeline that trains classifier and saves the model with commands: \
+3. > Change directory to **app** (**command: cd app**) and run ML pipeline that trains classifier and saves the model with commands: \
 **python train_classifier.py DisasterResponse_Database.db my_classifier.pkl**
 
 ![This is an image](Workflow%20Snapshots/ML.png)
