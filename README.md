@@ -22,12 +22,12 @@ The main aim of this project is to classify disaster text messages into differen
 ## Workflow Instructions
 Run the following commands in the project's workspace directory to initialize the workflow pipeline as the following steps sequentially:
 
-1. > Change directory to data (**command: cd data**) and run ETL pipeline that cleans data and stores in database with commands: \
+1. > Change directory to **data** (**command: cd data**) and run ETL pipeline that cleans data and stores in database with commands: \
 **python process_data.py disaster_messages.csv DisasterResponse_Database.db**
 
 ![This is an image](Workflow%20Snapshots/ETL.png)
 
-2. > Change directory to data (**command: cd models**) and run ML pipeline that trains classifier and saves the model with commands: \
+2. > Change directory to **models** (**command: cd models**) and run ML pipeline that trains classifier and saves the model with commands: \
 **python process_data.py disaster_messages.csv DisasterResponse_Database.db**
 
 ![This is an image](Workflow%20Snapshots/ETL.png)
