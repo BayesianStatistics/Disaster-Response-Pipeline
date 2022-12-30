@@ -13,6 +13,10 @@ The main aim of this project is to classify disaster text messages into differen
 * ETL.png: snapshot to initialize the ETL workflow pipeline in the project's workspace directory
 * ML.png: snapshot to initialize the ML workflow pipeline in the project's workspace directory
 
+### Folder: app: Web app interface source
+* ETL.png: snapshot to initialize the ETL workflow pipeline in the project's workspace directory
+* ML.png: snapshot to initialize the ML workflow pipeline in the project's workspace directory
+
 ### Folder: data: Data Source
 * DisasterResponse_Database.db: cleaned database 
 * disaster_categories.csv: data containing disaster categories 
