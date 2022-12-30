@@ -18,6 +18,10 @@ The main aim of this project is to classify disaster text messages into differen
 ### Folder: Web App Interface Snapshots
 * web1.png: input a disaster message to output related disaster categories part 1
 * web2.png: input a disaster message to output related disaster categories part 2
+* web3.png: distribution of disaster messages genre
+* web4.png: distribution of disaster categories
+* web5.png: heatmap correlation of first 18 disaster categories
+* web6.png: heatmap correlation of last 17 disaster categories
 
 ### Folder: Workflow Snapshots: Snapshots commands execution in project's workspace
 * ETL.png: ETL snapshot in project's workspace
