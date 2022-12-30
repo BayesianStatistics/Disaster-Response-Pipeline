@@ -18,7 +18,7 @@ The main aim of this project is to classify disaster text messages into differen
 ### Folder: Web App Interface Snapshots
 * ETL.png: ETL snapshot in project's workspace
 * ML.png: ML snapshot in project's workspace
-*app.png: app snapshot in project's workspace
+* app.png: app snapshot in project's workspace
 
 ### Folder: Workflow Snapshots: Snapshots commands execution in project's workspace
 * templates.folder: contains go.html and master.html files that equip the web app interface
