@@ -25,3 +25,5 @@ Run the following commands in the project's workspace directory to initialize th
 1. > Change directory to data (**command: cd data**) and run ETL pipeline that cleans data and stores in database with commands: \
 **python process_data.py disaster_messages.csv DisasterResponse_Database.db**\
 
+![Tux, the Linux mascot](Workflow Images/ETL.png)
+
