@@ -75,3 +75,7 @@ Run the following commands in the project's workspace directory to initialize th
 4. > Heatmap correlation of the first 18 disaster categories: 
 
 ![This is an image](Web%20App%20interface%20Snapshots/web5.png)
+
+5. > Heatmap correlation of the first 18 disaster categories: 
+
+![This is an image](Web%20App%20interface%20Snapshots/web6.png)
