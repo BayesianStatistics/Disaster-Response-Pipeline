@@ -10,10 +10,10 @@ The main aim of this project is to classify disaster text messages into differen
 * ML Pipeline.ipynb: ML pipeline
 
 ### Folder: data: data source
-*DisasterResponse_Database.db: cleaned database 
-*disaster_categories.csv: data containing categories type
-*disaster_messages.csv: data containing text raw messages  
-*process_data.py: ETL pipeline modulating functional code for loading, cleaning, extracting relevant features and save data in SQLite database
+* DisasterResponse_Database.db: cleaned database 
+* disaster_categories.csv: data containing categories type
+* disaster_messages.csv: data containing text raw messages  
+* process_data.py: ETL pipeline modulating functional code for loading, cleaning, extracting relevant features and save data in SQLite database
 
 DisasterResponse_Database.db
 Add files via upload
