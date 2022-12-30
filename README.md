@@ -65,3 +65,8 @@ Run the following commands in the project's workspace directory to initialize th
 2. > display the distribution of disaster messages genre: 
 
 ![This is an image](Web%20App%20interface%20Snapshots/web3.png)
+
+
+2. > display the distribution of disaster categories: 
+
+![This is an image](Web%20App%20interface%20Snapshots/web4.png)
