@@ -15,13 +15,7 @@ The main aim of this project is to classify disaster text messages into differen
 * disaster_messages.csv: data containing text raw messages  
 * process_data.py: ETL pipeline modulating functional code for loading, cleaning, extracting relevant features and save data in SQLite database
 
-DisasterResponse_Database.db
-Add files via upload
-19 hours ago
-disaster_categories.csv
-Add files via upload
-2 days ago
-disaster_messages.csv
-Add files via upload
-2 days ago
-process_data.py
+### Folder: models: Model Source
+* train_classifier.py - ML pipeline used to load cleaned data, train model and save trained model as pickle (.pkl) file for later use
+* classifier.pkl - pickle file contains trained model
+* ML Pipeline Preparation.ipynb - Jupyter Notebook used to prepare ML pipeline
