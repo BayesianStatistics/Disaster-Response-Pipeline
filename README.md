@@ -20,8 +20,8 @@ The main aim of this project is to classify disaster text messages into differen
 * web2.png: input a disaster message to output related disaster categories part 2
 
 ### Folder: Workflow Snapshots: Snapshots commands execution in project's workspace
-* ETL.png: snapshot to initialize the ETL workflow pipeline in the project's workspace directory
-* ML.png: snapshot to initialize the ML workflow pipeline in the project's workspace directory
+* templates.folder: contains go.html and master.html files that equip the web app interface
+* run.py: python script to initialize the web app interface
 
 ### Folder: app: Web app interface source
 * web1.png: input a disaster message to output related disaster categories part 1
