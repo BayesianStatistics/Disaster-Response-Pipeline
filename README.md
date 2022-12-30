@@ -52,4 +52,5 @@ Run the following commands in the project's workspace directory to initialize th
 ![This is an image](Workflow%20Snapshots/app.png)
 
 ## Inside Web App Interface User
-
+1. > Change directory to **data** (**command: cd data**) and run ETL pipeline that cleans data and stores in database with commands: \
+**python process_data.py disaster_messages.csv disaster_categories.csv DisasterResponse_Database.db**
