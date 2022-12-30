@@ -9,7 +9,7 @@ The main aim of this project is to classify disaster text messages into differen
 * ETL Pipeline.ipynb: ETL pipeline 
 * ML Pipeline.ipynb: ML pipeline
 
-### Folder: data: data source
+### Folder: data: Data Source
 * DisasterResponse_Database.db: cleaned database 
 * disaster_categories.csv: data containing categories type
 * disaster_messages.csv: data containing text raw messages  
