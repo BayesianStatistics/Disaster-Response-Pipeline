@@ -16,8 +16,9 @@ The main aim of this project is to classify disaster text messages into differen
 * ML Pipeline.ipynb: ML pipeline
 
 ### Folder: Web App Interface Snapshots
-* web1.png: input a disaster message to output related disaster categories part 1
-* web2.png: input a disaster message to output related disaster categories part 2
+* ETL.png: ETL snapshot in project's workspace
+* ML.png: ML snapshot in project's workspace
+*app.png: app snapshot in project's workspace
 
 ### Folder: Workflow Snapshots: Snapshots commands execution in project's workspace
 * templates.folder: contains go.html and master.html files that equip the web app interface
