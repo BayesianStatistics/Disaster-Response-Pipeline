@@ -15,7 +15,7 @@ The main aim of this project is to classify disaster text messages into differen
 * ETL Pipeline.ipynb: ETL pipeline 
 * ML Pipeline.ipynb: ML pipeline
 
-### Folder: Web app Interface Snapshots
+### Folder: Web App Interface Snapshots
 * web1.png: input a disaster message to output related disaster categories part 1
 * web2.png: input a disaster message to output related disaster categories part 2
 
