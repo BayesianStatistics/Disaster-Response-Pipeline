@@ -11,8 +11,8 @@ The main aim of this project is to classify disaster text messages into differen
 
 ### Folder: data: Data Source
 * DisasterResponse_Database.db: cleaned database 
-* disaster_categories.csv: data containing categories type
-* disaster_messages.csv: data containing text raw messages  
+* disaster_categories.csv: data containing disaster categories 
+* disaster_messages.csv: data containing text raw disaster messages  
 * process_data.py: ETL pipeline modulated with functional code for loading, cleaning, extracting relevant features and save data in SQLite database
 
 ### Folder: models: Model Source
