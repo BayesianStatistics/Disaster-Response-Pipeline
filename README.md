@@ -6,13 +6,23 @@ The main aim of this project is to classify disaster text messages into differen
 
 ## Files Description
 ### Folder: ETL+ML Pipelines: Jupyter Notebooks
-* ETL Pipeline.ipynb: ETL pipeline jupyter notebook
-* ML Pipeline.ipynb: ML pipeline jupyter notebook
+* ETL Pipeline.ipynb: ETL pipeline 
+* ML Pipeline.ipynb: ML pipeline
 
 ### Folder: data: data source
-*disaster_messages.csv - real messages sent during disaster events (provided by Figure Eight)
-*disaster_categories.csv - categories of the messages
+*DisasterResponse_Database.db: cleaned database 
+*disaster_categories.csv: data categories
 *process_data.py - ETL pipeline used to load, clean, extract feature and store data in SQLite database
 *ETL Pipeline Preparation.ipynb - Jupyter Notebook used to prepare ETL pipeline
 *DisasterResponse.db - cleaned data stored in SQlite database
 
+DisasterResponse_Database.db
+Add files via upload
+19 hours ago
+disaster_categories.csv
+Add files via upload
+2 days ago
+disaster_messages.csv
+Add files via upload
+2 days ago
+process_data.py
