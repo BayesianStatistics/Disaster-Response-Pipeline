@@ -85,4 +85,9 @@ Run the following commands in the project's workspace directory to initialize th
 ![This is an image](Web%20App%20interface%20Snapshots/web6.png)
 
 ## Acknowledgements
-[udacity](https://www.udacity.com/)
+* [udacity](https://www.udacity.com/) for giving the opportunity to learn and dive better into topics i never heard or seen before.
+* [Figure Eight](https://appen.com/) for the sponshorship of analyzing the dataset
+* [kaish114](https://github.com/kaish114/Disaster-Response-Pipelines) and [louisteo9](https://github.com/louisteo9/udacity-disaster-response-pipeline) for their amazing github repository to inspire to create my own repository for this project
+* [Harsh Darji](https://towardsdatascience.com/building-a-disaster-response-web-application-4066e6f90072) for his excellent article and more depth in the current topic of the project
+
+
