@@ -23,7 +23,7 @@ The main aim of this project is to classify disaster text messages into differen
 Run the following commands in the project's workspace directory to initialize the workflow pipeline as the following steps sequentially:
 
 1. > Change directory to **data** (**command: cd data**) and run ETL pipeline that cleans data and stores in database with commands: \
-**python train_classifier.py DisasterResponse_Database.db my_classifier.pkl
+**python process_data.py disaster_messages.csv disaster_categories.csv DisasterResponse_Database.db**
 
 ![This is an image](Workflow%20Snapshots/ETL.png)
 
