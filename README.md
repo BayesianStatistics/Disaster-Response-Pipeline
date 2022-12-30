@@ -10,8 +10,8 @@ The main aim of this project is to classify disaster text messages into differen
 * ML Pipeline.ipynb: ML pipeline
 
 ### Folder: Workflow Snapshots: Snapshots commands execution in project's workspace
-* ETL Pipeline.ipynb: ETL pipeline 
-* ML Pipeline.ipynb: ML pipeline
+* ETL.png: commands to initialize the ETL workflow pipeline in the project's workspace directory
+* ML.png: ML pipeline
 
 ### Folder: data: Data Source
 * DisasterResponse_Database.db: cleaned database 
