@@ -6,4 +6,5 @@ The main aim of this project is to classify disaster text messages into differen
 
 ## Files Description
 ### Folder: ETL+ML Pipelines: Jupyter Notebooks
-1. ETL+ML Pipelines: Jupyter Notebooks - Jupyter Notebooks used to prepare ETL pipeline
+* ETL Pipeline.ipynb: ETL pipeline jupyter notebook
+* ML Pipeline.ipynb: ML pipeline jupyter notebook
