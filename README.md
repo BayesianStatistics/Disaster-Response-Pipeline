@@ -56,6 +56,7 @@ Run the following commands in the project's workspace directory to initialize th
 ![This is an image](Workflow%20Snapshots/app.png)
 
 ## Inside Web App Interface User
-1. > type as disaster message **storm** to output related disaster categories: 
+1. > type message input **storm** to output related disaster categories: 
 
 ![This is an image](Web%20App%20interface%20Snapshots/web1.png)
+![This is an image](Web%20App%20interface%20Snapshots/web2.png)
