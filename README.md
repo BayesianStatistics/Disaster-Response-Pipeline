@@ -12,6 +12,7 @@ The main aim of this project is to classify disaster text messages into differen
 ### Folder: data: data source
 *DisasterResponse_Database.db: cleaned database 
 *disaster_categories.csv: data categories
+*disaster_messages.csv:
 *process_data.py - ETL pipeline used to load, clean, extract feature and store data in SQLite database
 *ETL Pipeline Preparation.ipynb - Jupyter Notebook used to prepare ETL pipeline
 *DisasterResponse.db - cleaned data stored in SQlite database
