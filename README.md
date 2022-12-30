@@ -20,4 +20,6 @@ The main aim of this project is to classify disaster text messages into differen
 * train_classifier.py: ML pipeline modulated with functional code for loading, cleaning, training model and saving model object in pickle file
 
 ## Workflow Instructions
+Run the following commands in the project's root directory to set up your database and model.
 
+To run ETL pipeline that cleans data and stores in database python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
