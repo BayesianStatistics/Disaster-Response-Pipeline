@@ -39,5 +39,5 @@ Run the following commands in the project's workspace directory to initialize th
 3. > Change directory to **app** (**command: cd app**) and initialize the web app with commands: \
 **python run.py**
 
-![This is an image](Workflow%20Snapshots/ML.png)
+![This is an image](Workflow%20Snapshots/app.png)
 
