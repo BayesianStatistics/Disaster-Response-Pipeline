@@ -3,7 +3,7 @@ This is part of the project requirements of Udacity Data Science Nanodegree and 
 
 # Table of Contents
 1. Project Goal
-2. File Description
+2. Files Description
 3. Workflow Instructions
 4. Inside Web App Interface User
 
