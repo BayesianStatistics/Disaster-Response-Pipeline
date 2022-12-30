@@ -22,4 +22,4 @@ The main aim of this project is to classify disaster text messages into differen
 ## Workflow Instructions
 Run the following commands in the project's workspace directory to initialize the workflow pipeline as the following steps sequentially:
 
-1. >Switch to the directory  database python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
+1. >Switch to the directory< data  database python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
