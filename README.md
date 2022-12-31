@@ -51,7 +51,7 @@ Run the following commands in the project's workspace directory to initialize th
 ![This is an image](Workflow%20Snapshots/ETL.png)
 
 2. > Change directory to **models** (**command: cd models**) and run ML pipeline that trains classifier and saves the model with commands: \
-**python train_classifier.py DisasterResponse_Database.db my_classifier.pkl**
+**python models/train_classifier.py data/DisasterResponse_Database.db models/my_classifier.pkl**
 
 ![This is an image](Workflow%20Snapshots/ML.png)
 
