@@ -61,7 +61,7 @@ Run the following commands in the project's workspace directory to initialize th
 ![This is an image](Workflow%20Snapshots/app.png)
 
 ## Inside Web App Interface User
-1. > type message input food to output associated disaster categories: 
+1. > type message input **food** to output associated disaster categories: 
 
 ![This is an image](Inside%20Web%20App%20Interface%20User//web1.png)
 
