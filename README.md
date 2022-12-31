@@ -15,13 +15,12 @@ The main aim of this project is to classify disaster text messages into differen
 * ETL Pipeline.ipynb: ETL pipeline 
 * ML Pipeline.ipynb: ML pipeline
 
-### Folder: Web App Interface Snapshots
-* web1.png: input a disaster message to output related disaster categories part 1
-* web2.png: input a disaster message to output related disaster categories part 2
-* web3.png: distribution of disaster messages genre
-* web4.png: distribution of disaster categories
-* web5.png: heatmap correlation of first 18 disaster categories
-* web6.png: heatmap correlation of last 17 disaster categories
+### Folder: Inside Web App Interface User
+* web1.png: input a disaster message to output related disaster categories
+* web2.png: distribution of disaster messages genre
+* web3.png: distribution of disaster categories
+* web4.png: heatmap correlation of first 18 disaster categories
+* web5.png: heatmap correlation of last 17 disaster categories
 
 ### Folder: Workflow Snapshots: Snapshots commands execution in project's workspace
 * ETL.png: ETL snapshot in project's workspace
@@ -63,25 +62,25 @@ Run the following commands in the project's workspace directory to initialize th
 ## Inside Web App Interface User
 1. > type message input **food** to output associated disaster categories: 
 
-![This is an image](Inside%20Web%20App%20Interface%20User//web1.png)
+![This is an image](Inside%20Web%20App%20Interface%20User/web1.png)
 
 2. > display the distribution of disaster messages genre: 
 
-![This is an image](Web%20App%20interface%20Snapshots/web3.png)
+![This is an image](Inside%20Web%20App%20Interface%20User/web2.png)
 
 
 3. > display the distribution of disaster categories: 
 
-![This is an image](Web%20App%20interface%20Snapshots/web4.png)
+![This is an image](Inside%20Web%20App%20Interface%20User/web3.png)
 
 
 4. > Heatmap correlation of the first 18 disaster categories: 
 
-![This is an image](Web%20App%20interface%20Snapshots/web5.png)
+![This is an image](Inside%20Web%20App%20Interface%20User/web4.png)
 
 5. > Heatmap correlation of the last 17 disaster categories: 
 
-![This is an image](Web%20App%20interface%20Snapshots/web6.png)
+![This is an image](Inside%20Web%20App%20Interface%20User/web5.png)
 
 ## Acknowledgements
 * [udacity](https://www.udacity.com/) for giving the opportunity to learn and dive better into topics i never heard or seen before.
