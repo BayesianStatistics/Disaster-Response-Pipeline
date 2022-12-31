@@ -88,7 +88,22 @@ def build_model():
             ('clf',MultiOutputClassifier(RandomForestClassifier()))
             ])
     
-    return model
+    #specify parameters for grid search
+    parameters = {
+        'clf__estimator__n_estimators': [10,20],
+         'clf__estimator__max_depth':[4,5]
+}
+
+    #set some standard metrics of multi-classification based on make_score() function
+    scorers = {'accuracy': make_scorer(accuracy_score),
+           'precision': make_scorer(precision_score, average = 'macro'),
+           'recall': make_scorer(recall_score, average = 'macro'),
+           'f1': make_scorer(f1_score, average = 'macro')}
+
+    #set model with gridsearch method based on crossvalidation (default=3) and scoring f1-metric
+    cv = GridSearchCV(estimator=model, param_grid=parameters, cv=3, scoring=scorers, verbose=3,refit='f1')
+    
+    return cv
 
 
 def evaluate_model(model, X_test, Y_test, category_names):
@@ -131,8 +146,8 @@ def save_model(model, model_filepath):
 def main():
     if len(sys.argv) == 3:
         database_filepath, model_filepath = sys.argv[1:]
-        database_filepath='/home/workspace/data/DisasterResponse_Database.db'
-        model_filepath='my_classifier.pkl'
+        database_filepath='data/DisasterResponse_Database.db'
+        model_filepath='models/my_classifier.pkl'
         print('Loading data...\n    DATABASE: {}'.format(database_filepath))
         X, Y, category_names = load_data(database_filepath)
         X_train, X_test, Y_train, Y_test = train_test_split(X, Y,test_size=0.3, random_state=2022)
