@@ -55,8 +55,8 @@ Run the following commands in the project's workspace directory to initialize th
 
 ![This is an image](Workflow%20Snapshots/ML.png)
 
-3. > Change directory to **app** (**command: cd app**) and initialize the web app with commands: \
-**python run.py**
+3. > In project's workspace initialize the web app with commands: \
+**python app/run.py**
 
 ![This is an image](Workflow%20Snapshots/app.png)
 
